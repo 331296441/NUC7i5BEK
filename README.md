@@ -49,4 +49,4 @@ intel NUC7i5BEK 微型电脑黑苹果安装和使用EFI，目前只在10.14.6上
 
  Intel NUC7系列黑苹果安装和日常使用EFI：[intel-nuc7-hackintosh](https://github.com/NathanDai/intel-nuc7-hackintosh)
 
-群「[一起黑苹果](https://jq.qq.com/?_wv=1027&k=56GTaUh)」的管理员「奥利奥（13410548314）」
+群「[一起黑苹果](https://jq.qq.com/?_wv=1027&k=56GTaUh)」的管理员「奥利奥（1341054831）」
