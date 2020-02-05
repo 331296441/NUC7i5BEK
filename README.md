@@ -1,13 +1,13 @@
-# NUC7i5BEK Hackintosh 10.14.6 EFI
+# NUC7i5BEK Hackintosh 10.14.6/10.15/10.15.3 EFI
 
 ---
 
-intel NUC7i5BEK 微型电脑黑苹果安装和使用EFI，目前只在10.14.6上验证通过。
+intel NUC7i5BEK 微型电脑黑苹果安装和使用EFI，目前在10.14.6、10.15和10.15.3上验证通过。
 
 ## 说明
 
 1. 同其他NUC的EFI一样，禁用无线网卡，蓝牙，读卡器，关闭VT-d，由于是矮版，我也禁用了SATA
-2. 该EFI可供安装和使用，目前仅测试macOS 10.14.6
+2. 该EFI可供安装和使用，目前仅测试macOS 10.14.6/10.15/10.15.3
 3. 支持传感器，可显示CPU温度频率等信息
 4. 具体配置如下
 
@@ -19,8 +19,8 @@ intel NUC7i5BEK 微型电脑黑苹果安装和使用EFI，目前只在10.14.6上
 
    4. 硬盘 Nvme Samsung SSD 970 EVO 250GB
 
-   5. 系统 macOS Mojave 版本 10.14.6（版号 18G2022）
-
+   5. 安装时系统 macOS Mojave 版本 10.14.6（版号 18G2022）
+   
    6. Clover 引导版本 5101
 
 ## 使用方法
