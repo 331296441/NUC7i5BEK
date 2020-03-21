@@ -1,8 +1,8 @@
-# NUC7i5BEK Hackintosh 10.14.6/10.15/10.15.3 EFI
+# NUC7i5BNK Hackintosh 10.14.6/10.15/10.15.3 EFI
 
 ---
 
-intel NUC7i5BEK 微型电脑黑苹果安装和使用EFI，目前在10.14.6、10.15和10.15.3上验证通过。
+intel NUC7i5BNK 微型电脑黑苹果安装和使用EFI，目前在10.14.6、10.15和10.15.3上验证通过。
 
 ## 说明
 
